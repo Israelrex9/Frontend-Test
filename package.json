@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "tailwindcss": "^3.2.6"
+  },
+  "dependencies": {
+    "@splinetool/loader": "^0.9.215",
+    "three": "^0.149.0"
+  }
+}
